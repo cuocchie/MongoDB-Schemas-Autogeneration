@@ -1,81 +1,59 @@
-from datetime import date
 import time
-from random import randint
 import timeit
-import math
-
 from names import get_first_name, get_last_name
-from data.mongo_setup import global_init
-from insert_data import (
-    create_student,
-    create_class,
-    create_contact,
-    create_grade,
-    add_class_to_student,
-    add_contact_to_student,
-    add_grade_to_student,
-)
-from utils import get_random_birth, get_random_number, get_random_point
-
-# For testing
-# NUMBER_OF_CLASSES = 2
-# NUMBER_OF_STUDENTS = 10
-
-NUMBER_OF_CLASSES = 1000
-NUMBER_OF_STUDENTS = 1000000
+from pymongo import MongoClient
+import string, random
 
 
-def main():
-    global_init()
+DB_URI = "mongodb://admin:EVDkyyc4ubS2pa3p@SG-MongTest-47896.servers.mongodirector.com:27017/admin"
+# Create Connection
+client = MongoClient(DB_URI)
 
-    # create 1.000.000 student records
-    class_list = []
-    # create 1000 classes
-    print("Creating Class")
-    start = timeit.default_timer()
-    for i in range(NUMBER_OF_CLASSES):
-        print(f"Epoch {i}/{NUMBER_OF_CLASSES}:")
-        temp_class = create_class(
-            class_name="K" + str(math.trunc(i / 10) + 60),
-            is_specialized=(randint(0, 1) == 1),
-            year_start=math.trunc(i / 10) + 2018,
-            year_end_seed=randint(4, 5),
-        )
-        class_list.append(temp_class)
-    stop = timeit.default_timer()
-    print("Time estimated: ", time.strftime("%H:%M:%S", time.gmtime(stop - start)))
+db = client.school_db
 
-    print("Creating student")
-    for i in range(NUMBER_OF_STUDENTS):
-        print(f"Epoch {i}/{NUMBER_OF_STUDENTS}:")
+students = db.students
+classes = db.classes
 
-        temp_student = create_student(
-            name=get_first_name() + " " + get_last_name(), birth=get_random_birth()
-        )
-        add_class_to_student(class_list, temp_student)
+NUMBER_OF_CLASSES = 2
+NUMBER_OF_STUDENTS = 10000
 
-        rand_email = (
-            (get_first_name() if randint(0, 1) == 1 else get_last_name())
-            + str(randint(0, 9999)).zfill(4)
-            + "@vnu.edu.vn"
-        )
-        print(rand_email)
-        temp_contact = create_contact(phone=get_random_number(), email=rand_email)
-        add_contact_to_student(temp_contact, temp_student)
+class_list = []
 
-        number_of_semesters = randint(1, 4)
-        for j in range(number_of_semesters):
-            temp_grade = create_grade(
-                semester_number=str(j + 1),
-                math=get_random_point(),
-                lang=get_random_point(),
-                sci=get_random_point(),
-            )
-            add_grade_to_student(temp_grade, temp_student)
+start = timeit.default_timer()
 
-    stop = timeit.default_timer()
-    print("Time estimated: ", time.strftime("%H:%M:%S", time.gmtime(stop - start)))
+for i in range(NUMBER_OF_CLASSES):
+    class_info = {
+        "name": f"K{60+i}{random.choice(string.ascii_letters).upper()}",
+        "is_specialized": random.randint(0, 1) == 1,
+    }
+    class_list.append(class_info)
 
+stop = timeit.default_timer()
+print("Time estimated: ", time.strftime("%H:%M:%S", time.gmtime(stop - start)))
+start = timeit.default_timer()
+class_id = classes.insert_many(class_list).inserted_ids
+stop = timeit.default_timer()
+print("Time estimated: ", time.strftime("%H:%M:%S", time.gmtime(stop - start)))
+start = timeit.default_timer()
 
-if __name__ == "__main__":
-    main()
+length = len(class_list)
+print(length)
+student_list = []
+for i in range(NUMBER_OF_STUDENTS):
+    student_info = {
+        "student_id": 19000000 + i,
+        "name": f"{get_first_name()} {get_last_name()}",
+        "class_id": i % length,
+        "grades": {
+            "math": random.randint(0, 10),
+            "lang": random.randint(0, 10),
+        },
+    }
+    student_list.append(student_info)
+stop = timeit.default_timer()
+print("Time estimated: ", time.strftime("%H:%M:%S", time.gmtime(stop - start)))
+
+start = timeit.default_timer()
+students.insert_many(student_list, bypass_document_validation=True)
+stop = timeit.default_timer()
+print("Time estimated: ", time.strftime("%H:%M:%S", time.gmtime(stop - start)))
