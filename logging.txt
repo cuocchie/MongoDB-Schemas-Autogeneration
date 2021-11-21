@@ -1,0 +1,615 @@
+INFO:root:Time created 1000 classes estimated: 00:00:00
+INFO:root:Time inserted 1000 classes estimated: 00:00:00
+INFO:root:
+
+ STARTING BATCH 0: TIME START = 2021-11-19 23:08:36.295273
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:24
+INFO:root:FINISH BATCH 0. TIME FINISHED: 2021-11-19 23:11:04.699971
+INFO:root:
+
+ STARTING BATCH 1: TIME START = 2021-11-19 23:11:04.699971
+INFO:root:Time created 1000000 students estimated: 00:00:03
+INFO:root:Time inserted 1000000 students estimated: 00:02:27
+INFO:root:FINISH BATCH 1. TIME FINISHED: 2021-11-19 23:13:35.690372
+INFO:root:
+
+ STARTING BATCH 2: TIME START = 2021-11-19 23:13:35.690372
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:27
+INFO:root:FINISH BATCH 2. TIME FINISHED: 2021-11-19 23:16:07.219962
+INFO:root:
+
+ STARTING BATCH 3: TIME START = 2021-11-19 23:16:07.219962
+INFO:root:Time created 1000000 students estimated: 00:00:03
+INFO:root:Time inserted 1000000 students estimated: 00:03:55
+INFO:root:FINISH BATCH 3. TIME FINISHED: 2021-11-19 23:20:06.377584
+INFO:root:
+
+ STARTING BATCH 4: TIME START = 2021-11-19 23:20:06.377584
+INFO:root:Time created 1000000 students estimated: 00:00:03
+INFO:root:Time inserted 1000000 students estimated: 00:02:27
+INFO:root:FINISH BATCH 4. TIME FINISHED: 2021-11-19 23:22:37.636239
+INFO:root:
+
+ STARTING BATCH 5: TIME START = 2021-11-19 23:22:37.636239
+INFO:root:Time created 1000000 students estimated: 00:00:03
+INFO:root:Time inserted 1000000 students estimated: 00:02:32
+INFO:root:FINISH BATCH 5. TIME FINISHED: 2021-11-19 23:25:14.166276
+INFO:root:
+
+ STARTING BATCH 6: TIME START = 2021-11-19 23:25:14.166276
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:30
+INFO:root:FINISH BATCH 6. TIME FINISHED: 2021-11-19 23:27:49.176235
+INFO:root:
+
+ STARTING BATCH 7: TIME START = 2021-11-19 23:27:49.177231
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:33
+INFO:root:FINISH BATCH 7. TIME FINISHED: 2021-11-19 23:30:26.682838
+INFO:root:
+
+ STARTING BATCH 8: TIME START = 2021-11-19 23:30:26.682838
+INFO:root:Time created 1000000 students estimated: 00:00:03
+INFO:root:Time inserted 1000000 students estimated: 00:02:36
+INFO:root:FINISH BATCH 8. TIME FINISHED: 2021-11-19 23:33:07.448522
+INFO:root:
+
+ STARTING BATCH 9: TIME START = 2021-11-19 23:33:07.448522
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:03:18
+INFO:root:FINISH BATCH 9. TIME FINISHED: 2021-11-19 23:36:29.809484
+INFO:root:
+
+ STARTING BATCH 10: TIME START = 2021-11-19 23:36:29.809484
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:46
+INFO:root:FINISH BATCH 10. TIME FINISHED: 2021-11-19 23:39:20.275065
+INFO:root:
+
+ STARTING BATCH 11: TIME START = 2021-11-19 23:39:20.275065
+INFO:root:Time created 1000000 students estimated: 00:00:03
+INFO:root:Time inserted 1000000 students estimated: 00:02:25
+INFO:root:FINISH BATCH 11. TIME FINISHED: 2021-11-19 23:41:49.338525
+INFO:root:
+
+ STARTING BATCH 12: TIME START = 2021-11-19 23:41:49.338525
+INFO:root:Time created 1000000 students estimated: 00:00:03
+INFO:root:Time inserted 1000000 students estimated: 00:02:17
+INFO:root:FINISH BATCH 12. TIME FINISHED: 2021-11-19 23:44:10.143843
+INFO:root:
+
+ STARTING BATCH 13: TIME START = 2021-11-19 23:44:10.144841
+INFO:root:Time created 1000000 students estimated: 00:00:03
+INFO:root:Time inserted 1000000 students estimated: 00:02:09
+INFO:root:FINISH BATCH 13. TIME FINISHED: 2021-11-19 23:46:23.857547
+INFO:root:
+
+ STARTING BATCH 14: TIME START = 2021-11-19 23:46:23.857547
+INFO:root:Time created 1000000 students estimated: 00:00:03
+INFO:root:Time inserted 1000000 students estimated: 00:02:18
+INFO:root:FINISH BATCH 14. TIME FINISHED: 2021-11-19 23:48:45.890882
+INFO:root:
+
+ STARTING BATCH 15: TIME START = 2021-11-19 23:48:45.890882
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:12
+INFO:root:FINISH BATCH 15. TIME FINISHED: 2021-11-19 23:51:02.701395
+INFO:root:
+
+ STARTING BATCH 16: TIME START = 2021-11-19 23:51:02.701395
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:13
+INFO:root:FINISH BATCH 16. TIME FINISHED: 2021-11-19 23:53:20.315231
+INFO:root:
+
+ STARTING BATCH 17: TIME START = 2021-11-19 23:53:20.315231
+INFO:root:Time created 1000000 students estimated: 00:00:03
+INFO:root:Time inserted 1000000 students estimated: 00:02:16
+INFO:root:FINISH BATCH 17. TIME FINISHED: 2021-11-19 23:55:40.528638
+INFO:root:
+
+ STARTING BATCH 18: TIME START = 2021-11-19 23:55:40.529631
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:18
+INFO:root:FINISH BATCH 18. TIME FINISHED: 2021-11-19 23:58:02.952335
+INFO:root:
+
+ STARTING BATCH 19: TIME START = 2021-11-19 23:58:02.952335
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:13
+INFO:root:FINISH BATCH 19. TIME FINISHED: 2021-11-20 00:00:20.785474
+INFO:root:
+
+ STARTING BATCH 20: TIME START = 2021-11-20 00:00:20.785474
+INFO:root:Time created 1000000 students estimated: 00:00:03
+INFO:root:Time inserted 1000000 students estimated: 00:02:12
+INFO:root:FINISH BATCH 20. TIME FINISHED: 2021-11-20 00:02:37.153938
+INFO:root:
+
+ STARTING BATCH 21: TIME START = 2021-11-20 00:02:37.153938
+INFO:root:Time created 1000000 students estimated: 00:00:03
+INFO:root:Time inserted 1000000 students estimated: 00:02:13
+INFO:root:FINISH BATCH 21. TIME FINISHED: 2021-11-20 00:04:54.060609
+INFO:root:
+
+ STARTING BATCH 22: TIME START = 2021-11-20 00:04:54.060609
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:15
+INFO:root:FINISH BATCH 22. TIME FINISHED: 2021-11-20 00:07:13.697288
+INFO:root:
+
+ STARTING BATCH 23: TIME START = 2021-11-20 00:07:13.697288
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:20
+INFO:root:FINISH BATCH 23. TIME FINISHED: 2021-11-20 00:09:41.646138
+INFO:root:
+
+ STARTING BATCH 24: TIME START = 2021-11-20 00:09:41.646138
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:18
+INFO:root:FINISH BATCH 24. TIME FINISHED: 2021-11-20 00:12:07.403384
+INFO:root:
+
+ STARTING BATCH 25: TIME START = 2021-11-20 00:12:07.403384
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:20
+INFO:root:FINISH BATCH 25. TIME FINISHED: 2021-11-20 00:14:35.836155
+INFO:root:
+
+ STARTING BATCH 26: TIME START = 2021-11-20 00:14:35.836155
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:18
+INFO:root:FINISH BATCH 26. TIME FINISHED: 2021-11-20 00:17:01.631191
+INFO:root:
+
+ STARTING BATCH 27: TIME START = 2021-11-20 00:17:01.631191
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:21
+INFO:root:FINISH BATCH 27. TIME FINISHED: 2021-11-20 00:19:30.586749
+INFO:root:
+
+ STARTING BATCH 28: TIME START = 2021-11-20 00:19:30.586749
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:21
+INFO:root:FINISH BATCH 28. TIME FINISHED: 2021-11-20 00:21:59.273682
+INFO:root:
+
+ STARTING BATCH 29: TIME START = 2021-11-20 00:21:59.274681
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:24
+INFO:root:FINISH BATCH 29. TIME FINISHED: 2021-11-20 00:24:30.965532
+INFO:root:
+
+ STARTING BATCH 30: TIME START = 2021-11-20 00:24:30.965532
+INFO:root:Time created 1000000 students estimated: 00:00:06
+INFO:root:Time inserted 1000000 students estimated: 00:02:21
+INFO:root:FINISH BATCH 30. TIME FINISHED: 2021-11-20 00:26:58.934414
+INFO:root:
+
+ STARTING BATCH 31: TIME START = 2021-11-20 00:26:58.934414
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:15
+INFO:root:FINISH BATCH 31. TIME FINISHED: 2021-11-20 00:29:21.472349
+INFO:root:
+
+ STARTING BATCH 32: TIME START = 2021-11-20 00:29:21.472349
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:14
+INFO:root:FINISH BATCH 32. TIME FINISHED: 2021-11-20 00:31:43.494958
+INFO:root:
+
+ STARTING BATCH 33: TIME START = 2021-11-20 00:31:43.494958
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:12
+INFO:root:FINISH BATCH 33. TIME FINISHED: 2021-11-20 00:34:03.742261
+INFO:root:
+
+ STARTING BATCH 34: TIME START = 2021-11-20 00:34:03.743219
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:15
+INFO:root:FINISH BATCH 34. TIME FINISHED: 2021-11-20 00:36:26.844173
+INFO:root:
+
+ STARTING BATCH 35: TIME START = 2021-11-20 00:36:26.844173
+INFO:root:Time created 1000000 students estimated: 00:00:06
+INFO:root:Time inserted 1000000 students estimated: 00:02:13
+INFO:root:FINISH BATCH 35. TIME FINISHED: 2021-11-20 00:38:47.430480
+INFO:root:
+
+ STARTING BATCH 36: TIME START = 2021-11-20 00:38:47.430480
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:13
+INFO:root:FINISH BATCH 36. TIME FINISHED: 2021-11-20 00:41:08.481280
+INFO:root:
+
+ STARTING BATCH 37: TIME START = 2021-11-20 00:41:08.482237
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:16
+INFO:root:FINISH BATCH 37. TIME FINISHED: 2021-11-20 00:43:32.630192
+INFO:root:
+
+ STARTING BATCH 38: TIME START = 2021-11-20 00:43:32.631191
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:20
+INFO:root:FINISH BATCH 38. TIME FINISHED: 2021-11-20 00:46:00.644923
+INFO:root:
+
+ STARTING BATCH 39: TIME START = 2021-11-20 00:46:00.644923
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:19
+INFO:root:FINISH BATCH 39. TIME FINISHED: 2021-11-20 00:48:27.942806
+INFO:root:
+
+ STARTING BATCH 40: TIME START = 2021-11-20 00:48:27.942806
+INFO:root:Time created 1000000 students estimated: 00:00:06
+INFO:root:Time inserted 1000000 students estimated: 00:02:24
+INFO:root:FINISH BATCH 40. TIME FINISHED: 2021-11-20 00:50:59.300334
+INFO:root:
+
+ STARTING BATCH 41: TIME START = 2021-11-20 00:50:59.300334
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:20
+INFO:root:FINISH BATCH 41. TIME FINISHED: 2021-11-20 00:53:28.015252
+INFO:root:
+
+ STARTING BATCH 42: TIME START = 2021-11-20 00:53:28.015252
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:21
+INFO:root:FINISH BATCH 42. TIME FINISHED: 2021-11-20 00:55:56.868040
+INFO:root:
+
+ STARTING BATCH 43: TIME START = 2021-11-20 00:55:56.868040
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:13
+INFO:root:FINISH BATCH 43. TIME FINISHED: 2021-11-20 00:58:17.870914
+INFO:root:
+
+ STARTING BATCH 44: TIME START = 2021-11-20 00:58:17.870914
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:12
+INFO:root:FINISH BATCH 44. TIME FINISHED: 2021-11-20 01:00:37.755355
+INFO:root:
+
+ STARTING BATCH 45: TIME START = 2021-11-20 01:00:37.755355
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:14
+INFO:root:FINISH BATCH 45. TIME FINISHED: 2021-11-20 01:02:59.723053
+INFO:root:
+
+ STARTING BATCH 46: TIME START = 2021-11-20 01:02:59.723246
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:11
+INFO:root:FINISH BATCH 46. TIME FINISHED: 2021-11-20 01:05:18.697130
+INFO:root:
+
+ STARTING BATCH 47: TIME START = 2021-11-20 01:05:18.698123
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:13
+INFO:root:FINISH BATCH 47. TIME FINISHED: 2021-11-20 01:07:39.335398
+INFO:root:
+
+ STARTING BATCH 48: TIME START = 2021-11-20 01:07:39.335398
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:12
+INFO:root:FINISH BATCH 48. TIME FINISHED: 2021-11-20 01:09:59.478647
+INFO:root:
+
+ STARTING BATCH 49: TIME START = 2021-11-20 01:09:59.478647
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:14
+INFO:root:FINISH BATCH 49. TIME FINISHED: 2021-11-20 01:12:21.175606
+INFO:root:
+
+ STARTING BATCH 50: TIME START = 2021-11-20 01:12:21.175606
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:14
+INFO:root:FINISH BATCH 50. TIME FINISHED: 2021-11-20 01:14:42.788258
+INFO:root:
+
+ STARTING BATCH 51: TIME START = 2021-11-20 01:14:42.788258
+INFO:root:Time created 1000000 students estimated: 00:00:06
+INFO:root:Time inserted 1000000 students estimated: 00:02:18
+INFO:root:FINISH BATCH 51. TIME FINISHED: 2021-11-20 01:17:08.344163
+INFO:root:
+
+ STARTING BATCH 52: TIME START = 2021-11-20 01:17:08.345161
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:17
+INFO:root:FINISH BATCH 52. TIME FINISHED: 2021-11-20 01:19:32.860574
+INFO:root:
+
+ STARTING BATCH 53: TIME START = 2021-11-20 01:19:32.860574
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:18
+INFO:root:FINISH BATCH 53. TIME FINISHED: 2021-11-20 01:21:58.833154
+INFO:root:
+
+ STARTING BATCH 54: TIME START = 2021-11-20 01:21:58.833154
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:16
+INFO:root:FINISH BATCH 54. TIME FINISHED: 2021-11-20 01:24:23.213371
+INFO:root:
+
+ STARTING BATCH 55: TIME START = 2021-11-20 01:24:23.213371
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:18
+INFO:root:FINISH BATCH 55. TIME FINISHED: 2021-11-20 01:26:49.370456
+INFO:root:
+
+ STARTING BATCH 56: TIME START = 2021-11-20 01:26:49.370456
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:11
+INFO:root:FINISH BATCH 56. TIME FINISHED: 2021-11-20 01:29:07.752128
+INFO:root:
+
+ STARTING BATCH 57: TIME START = 2021-11-20 01:29:07.752128
+INFO:root:Time created 1000000 students estimated: 00:00:06
+INFO:root:Time inserted 1000000 students estimated: 00:02:11
+INFO:root:FINISH BATCH 57. TIME FINISHED: 2021-11-20 01:31:25.674766
+INFO:root:
+
+ STARTING BATCH 58: TIME START = 2021-11-20 01:31:25.674766
+INFO:root:Time created 1000000 students estimated: 00:00:06
+INFO:root:Time inserted 1000000 students estimated: 00:02:21
+INFO:root:FINISH BATCH 58. TIME FINISHED: 2021-11-20 01:33:53.726276
+INFO:root:
+
+ STARTING BATCH 59: TIME START = 2021-11-20 01:33:53.726276
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:12
+INFO:root:FINISH BATCH 59. TIME FINISHED: 2021-11-20 01:36:12.815979
+INFO:root:
+
+ STARTING BATCH 60: TIME START = 2021-11-20 01:36:12.815979
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:57
+INFO:root:FINISH BATCH 60. TIME FINISHED: 2021-11-20 01:39:17.931977
+INFO:root:
+
+ STARTING BATCH 61: TIME START = 2021-11-20 01:39:17.931977
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:10
+INFO:root:FINISH BATCH 61. TIME FINISHED: 2021-11-20 01:41:35.616857
+INFO:root:
+
+ STARTING BATCH 62: TIME START = 2021-11-20 01:41:35.616857
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:12
+INFO:root:FINISH BATCH 62. TIME FINISHED: 2021-11-20 01:43:54.733255
+INFO:root:
+
+ STARTING BATCH 63: TIME START = 2021-11-20 01:43:54.734253
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:09
+INFO:root:FINISH BATCH 63. TIME FINISHED: 2021-11-20 01:46:12.171443
+INFO:root:
+
+ STARTING BATCH 64: TIME START = 2021-11-20 01:46:12.172442
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:12
+INFO:root:FINISH BATCH 64. TIME FINISHED: 2021-11-20 01:48:32.519122
+INFO:root:
+
+ STARTING BATCH 65: TIME START = 2021-11-20 01:48:32.519122
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:07
+INFO:root:FINISH BATCH 65. TIME FINISHED: 2021-11-20 01:50:47.436449
+INFO:root:
+
+ STARTING BATCH 66: TIME START = 2021-11-20 01:50:47.436449
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:25
+INFO:root:FINISH BATCH 66. TIME FINISHED: 2021-11-20 01:53:20.136092
+INFO:root:
+
+ STARTING BATCH 67: TIME START = 2021-11-20 01:53:20.136092
+INFO:root:Time created 1000000 students estimated: 00:00:06
+INFO:root:Time inserted 1000000 students estimated: 00:02:08
+INFO:root:FINISH BATCH 67. TIME FINISHED: 2021-11-20 01:55:35.612047
+INFO:root:
+
+ STARTING BATCH 68: TIME START = 2021-11-20 01:55:35.613041
+INFO:root:Time created 1000000 students estimated: 00:00:06
+INFO:root:Time inserted 1000000 students estimated: 00:02:09
+INFO:root:FINISH BATCH 68. TIME FINISHED: 2021-11-20 01:57:52.032750
+INFO:root:
+
+ STARTING BATCH 69: TIME START = 2021-11-20 01:57:52.032750
+INFO:root:Time created 1000000 students estimated: 00:00:06
+INFO:root:Time inserted 1000000 students estimated: 00:02:09
+INFO:root:FINISH BATCH 69. TIME FINISHED: 2021-11-20 02:00:08.030362
+INFO:root:
+
+ STARTING BATCH 70: TIME START = 2021-11-20 02:00:08.031360
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:08
+INFO:root:FINISH BATCH 70. TIME FINISHED: 2021-11-20 02:02:23.661668
+INFO:root:
+
+ STARTING BATCH 71: TIME START = 2021-11-20 02:02:23.661668
+INFO:root:Time created 1000000 students estimated: 00:00:06
+INFO:root:Time inserted 1000000 students estimated: 00:02:10
+INFO:root:FINISH BATCH 71. TIME FINISHED: 2021-11-20 02:04:40.639610
+INFO:root:
+
+ STARTING BATCH 72: TIME START = 2021-11-20 02:04:40.639610
+INFO:root:Time created 1000000 students estimated: 00:00:06
+INFO:root:Time inserted 1000000 students estimated: 00:02:08
+INFO:root:FINISH BATCH 72. TIME FINISHED: 2021-11-20 02:06:55.772506
+INFO:root:
+
+ STARTING BATCH 73: TIME START = 2021-11-20 02:06:55.772506
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:08
+INFO:root:FINISH BATCH 73. TIME FINISHED: 2021-11-20 02:09:11.918404
+INFO:root:
+
+ STARTING BATCH 74: TIME START = 2021-11-20 02:09:11.918404
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:08
+INFO:root:FINISH BATCH 74. TIME FINISHED: 2021-11-20 02:11:27.558417
+INFO:root:
+
+ STARTING BATCH 75: TIME START = 2021-11-20 02:11:27.558417
+INFO:root:Time created 1000000 students estimated: 00:00:06
+INFO:root:Time inserted 1000000 students estimated: 00:02:08
+INFO:root:FINISH BATCH 75. TIME FINISHED: 2021-11-20 02:13:42.632745
+INFO:root:
+
+ STARTING BATCH 76: TIME START = 2021-11-20 02:13:42.632745
+INFO:root:Time created 1000000 students estimated: 00:00:07
+INFO:root:Time inserted 1000000 students estimated: 00:02:09
+INFO:root:FINISH BATCH 76. TIME FINISHED: 2021-11-20 02:15:59.532512
+INFO:root:
+
+ STARTING BATCH 77: TIME START = 2021-11-20 02:15:59.532512
+INFO:root:Time created 1000000 students estimated: 00:00:08
+INFO:root:Time inserted 1000000 students estimated: 00:02:37
+INFO:root:FINISH BATCH 77. TIME FINISHED: 2021-11-20 02:18:45.566641
+INFO:root:
+
+ STARTING BATCH 78: TIME START = 2021-11-20 02:18:45.566641
+INFO:root:Time created 1000000 students estimated: 00:00:09
+INFO:root:Time inserted 1000000 students estimated: 00:02:14
+INFO:root:FINISH BATCH 78. TIME FINISHED: 2021-11-20 02:21:10.256576
+INFO:root:
+
+ STARTING BATCH 79: TIME START = 2021-11-20 02:21:10.256576
+INFO:root:Time created 1000000 students estimated: 00:00:08
+INFO:root:Time inserted 1000000 students estimated: 00:02:12
+INFO:root:FINISH BATCH 79. TIME FINISHED: 2021-11-20 02:23:31.368597
+INFO:root:
+
+ STARTING BATCH 80: TIME START = 2021-11-20 02:23:31.368597
+INFO:root:Time created 1000000 students estimated: 00:00:08
+INFO:root:Time inserted 1000000 students estimated: 00:02:13
+INFO:root:FINISH BATCH 80. TIME FINISHED: 2021-11-20 02:25:52.984449
+INFO:root:
+
+ STARTING BATCH 81: TIME START = 2021-11-20 02:25:52.984449
+INFO:root:Time created 1000000 students estimated: 00:00:08
+INFO:root:Time inserted 1000000 students estimated: 00:02:15
+INFO:root:FINISH BATCH 81. TIME FINISHED: 2021-11-20 02:28:17.146101
+INFO:root:
+
+ STARTING BATCH 82: TIME START = 2021-11-20 02:28:17.146101
+INFO:root:Time created 1000000 students estimated: 00:00:07
+ERROR:root:Batch 82 failed, increase BATCHES to one
+INFO:root:
+
+ STARTING BATCH 83: TIME START = 2021-11-20 06:56:11.569853
+INFO:root:Time created 1000000 students estimated: 00:00:12
+INFO:root:Time inserted 1000000 students estimated: 00:02:49
+INFO:root:FINISH BATCH 83. TIME FINISHED: 2021-11-20 06:59:13.515865
+INFO:root:
+
+ STARTING BATCH 84: TIME START = 2021-11-20 06:59:13.517606
+INFO:root:Time created 1000000 students estimated: 00:00:12
+INFO:root:Time inserted 1000000 students estimated: 00:02:39
+INFO:root:FINISH BATCH 84. TIME FINISHED: 2021-11-20 07:02:05.117573
+INFO:root:
+
+ STARTING BATCH 85: TIME START = 2021-11-20 07:02:05.118576
+INFO:root:Time created 1000000 students estimated: 00:00:12
+INFO:root:Time inserted 1000000 students estimated: 00:02:39
+INFO:root:FINISH BATCH 85. TIME FINISHED: 2021-11-20 07:04:57.479639
+INFO:root:
+
+ STARTING BATCH 86: TIME START = 2021-11-20 07:04:57.479639
+INFO:root:Time created 1000000 students estimated: 00:00:13
+INFO:root:Time inserted 1000000 students estimated: 00:02:40
+INFO:root:FINISH BATCH 86. TIME FINISHED: 2021-11-20 07:07:51.497219
+INFO:root:
+
+ STARTING BATCH 87: TIME START = 2021-11-20 07:07:51.497219
+INFO:root:Time created 1000000 students estimated: 00:00:09
+INFO:root:Time inserted 1000000 students estimated: 00:02:27
+INFO:root:FINISH BATCH 87. TIME FINISHED: 2021-11-20 07:10:27.879310
+INFO:root:
+
+ STARTING BATCH 88: TIME START = 2021-11-20 07:10:27.879310
+INFO:root:Time created 1000000 students estimated: 00:00:03
+INFO:root:Time inserted 1000000 students estimated: 00:02:23
+INFO:root:FINISH BATCH 88. TIME FINISHED: 2021-11-20 07:12:54.923882
+INFO:root:
+
+ STARTING BATCH 89: TIME START = 2021-11-20 07:12:54.923882
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:25
+INFO:root:FINISH BATCH 89. TIME FINISHED: 2021-11-20 07:15:24.425166
+INFO:root:
+
+ STARTING BATCH 90: TIME START = 2021-11-20 07:15:24.425166
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:22
+INFO:root:FINISH BATCH 90. TIME FINISHED: 2021-11-20 07:17:51.416869
+INFO:root:
+
+ STARTING BATCH 91: TIME START = 2021-11-20 07:17:51.416869
+INFO:root:Time created 1000000 students estimated: 00:00:03
+INFO:root:Time inserted 1000000 students estimated: 00:02:23
+INFO:root:FINISH BATCH 91. TIME FINISHED: 2021-11-20 07:20:18.560646
+INFO:root:
+
+ STARTING BATCH 92: TIME START = 2021-11-20 07:20:18.560646
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:22
+INFO:root:FINISH BATCH 92. TIME FINISHED: 2021-11-20 07:22:45.072920
+INFO:root:
+
+ STARTING BATCH 93: TIME START = 2021-11-20 07:22:45.072920
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:22
+INFO:root:FINISH BATCH 93. TIME FINISHED: 2021-11-20 07:25:12.379601
+INFO:root:
+
+ STARTING BATCH 94: TIME START = 2021-11-20 07:25:12.379601
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:22
+INFO:root:FINISH BATCH 94. TIME FINISHED: 2021-11-20 07:27:39.225069
+INFO:root:
+
+ STARTING BATCH 95: TIME START = 2021-11-20 07:27:39.225069
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:23
+INFO:root:FINISH BATCH 95. TIME FINISHED: 2021-11-20 07:30:07.486809
+INFO:root:
+
+ STARTING BATCH 96: TIME START = 2021-11-20 07:30:07.486809
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:19
+INFO:root:FINISH BATCH 96. TIME FINISHED: 2021-11-20 07:32:31.532149
+INFO:root:
+
+ STARTING BATCH 97: TIME START = 2021-11-20 07:32:31.532149
+INFO:root:Time created 1000000 students estimated: 00:00:03
+INFO:root:Time inserted 1000000 students estimated: 00:02:18
+INFO:root:FINISH BATCH 97. TIME FINISHED: 2021-11-20 07:34:53.949369
+INFO:root:
+
+ STARTING BATCH 98: TIME START = 2021-11-20 07:34:53.949369
+INFO:root:Time created 1000000 students estimated: 00:00:04
+INFO:root:Time inserted 1000000 students estimated: 00:02:24
+INFO:root:FINISH BATCH 98. TIME FINISHED: 2021-11-20 07:37:22.090894
+INFO:root:
+
+ STARTING BATCH 99: TIME START = 2021-11-20 07:37:22.090894
+INFO:root:Time created 1000000 students estimated: 00:00:05
+INFO:root:Time inserted 1000000 students estimated: 00:02:35
+INFO:root:FINISH BATCH 99. TIME FINISHED: 2021-11-20 07:40:02.295651
+INFO:root:Time created 3 classes estimated: 00:00:00
+INFO:root:Time inserted 3 classes estimated: 00:00:00
+INFO:root:
+
+ STARTING BATCH 0: TIME START = 2021-11-20 08:31:34.468777
+INFO:root:Time created 300000 students estimated: 00:00:02
+INFO:root:Time created 3 classes estimated: 00:00:00
+INFO:root:Time inserted 3 classes estimated: 00:00:00
+INFO:root:
+
+ STARTING BATCH 0: TIME START = 2021-11-20 08:32:12.244684
+INFO:root:Time created 300000 students estimated: 00:00:02
+INFO:root:Time inserted 300000 students estimated: 00:00:49
+INFO:root:FINISH BATCH 0. TIME FINISHED: 2021-11-20 08:33:04.406231
