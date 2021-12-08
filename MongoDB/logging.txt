@@ -599,17 +599,8 @@ INFO:root:
 INFO:root:Time created 1000000 students estimated: 00:00:05
 INFO:root:Time inserted 1000000 students estimated: 00:02:35
 INFO:root:FINISH BATCH 99. TIME FINISHED: 2021-11-20 07:40:02.295651
-INFO:root:Time created 3 classes estimated: 00:00:00
-INFO:root:Time inserted 3 classes estimated: 00:00:00
-INFO:root:
 
- STARTING BATCH 0: TIME START = 2021-11-20 08:31:34.468777
-INFO:root:Time created 300000 students estimated: 00:00:02
-INFO:root:Time created 3 classes estimated: 00:00:00
-INFO:root:Time inserted 3 classes estimated: 00:00:00
-INFO:root:
-
- STARTING BATCH 0: TIME START = 2021-11-20 08:32:12.244684
-INFO:root:Time created 300000 students estimated: 00:00:02
-INFO:root:Time inserted 300000 students estimated: 00:00:49
-INFO:root:FINISH BATCH 0. TIME FINISHED: 2021-11-20 08:33:04.406231
+ STARTING BATCH 99: TIME START = 2021-11-20 07:40:02.295651
+INFO:root:Time created 1000000 students estimated: 00:00:05
+INFO:root:Time inserted 1000000 students estimated: 00:02:35
+INFO:root:FINISH BATCH 99. TIME FINISHED: 2021-11-20 07:42:07.945894
