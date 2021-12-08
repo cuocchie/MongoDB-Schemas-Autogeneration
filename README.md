@@ -37,7 +37,7 @@
 
 #### Students
 
-```
+```json
 {
     "student_id": 19000000,
     "name": "Nguyễn Thế Sơn",
@@ -53,7 +53,7 @@
 
 #### Classes
 
-```
+```json
 {
     "name": "K60E",
     "is_specialized": true
