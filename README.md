@@ -2,10 +2,17 @@
 
 > This code only use for research purpose.  Any problem, please report to cuocchie@gmail.com.
 
+## About us:
+This project was made by:
+- Đoàn Việt Hưng
+- Nguyễn Trọng Đạt
+- Nguyễn Đức Huy
+- Nguyễn Thành Đạt
+
 ## General Idea
 
 - Get an insight about the performance difference between SQL (MySQL) and No-SQL (MongoDB).
-- Create a simple schema which has a table/collection contain 1 mil records/documents.
+- Create a simple schema which has a table/collection contain ***100 milions*** records/documents.
 - This code only focus on auto generate data and optimize insertion into MongoDB database.
 
 ## About Schema
